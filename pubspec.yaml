@@ -20,4 +20,4 @@ flutter:
     pluginClass: MultiImagePickerPlugin
 environment:
     sdk: ">=2.0.0-dev.28.0 <3.0.0"
-    flutter: ">=1.7.8 <2.0.0"
+    flutter: ">=1.7.8 <2.2.0"
